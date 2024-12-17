@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com/" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" width="400"><img align="center" src="https://laravel.com/img/logotype.min.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com/" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" width="300"><span align="center"><img src="https://laravel.com/img/logotype.min.svg" width="300"></span></a></p>
 
 <p align="center">
 <a href="https://github.com/Pharaonic/laravel-has-files" target="_blank"><img src="http://img.shields.io/badge/source-pharaonic/laravel--has--files-blue.svg?style=flat-square" alt="Source"></a> <a href="https://packagist.org/packages/pharaonic/laravel-has-files" target="_blank"><img src="https://img.shields.io/packagist/v/pharaonic/laravel-has-files?style=flat-square" alt="Packagist Version"></a><br>
